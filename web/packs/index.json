@@ -1,0 +1,6 @@
+{
+  "packs": [
+    "custom.json"
+  ],
+  "homeserver_url": "https://matrix.payflow.co"
+}
